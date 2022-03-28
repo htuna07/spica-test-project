@@ -1,3 +1,3 @@
 export default function (req, res) {
-	return "OK"
+	return "OK2"
 }
